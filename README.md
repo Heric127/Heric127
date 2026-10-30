@@ -35,4 +35,4 @@ Coming soon! I'm working on projects to showcase my software engineering skills.
 
 ### 🚀 Goals
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/heric-perez-perez-1765a31a2)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/heric-perez-perez-1765a31a2) | [GitHub](https://github.com/Heric127)
