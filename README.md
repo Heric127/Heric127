@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Heric Perez 👋
 
-<!--
-**Heric127/Heric127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at Regent College London, interested in software development, problem-solving and building practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+
+- Python
+- SQL
+- MySQL
+- Git
+- GitHub
+
+### 📚 Currently Learning
+
+- Python Programming
+- Data Structures & Algorithms
+- Backend Development
+- API Development
+
+### 🌱 What I'm Working On
+
+Improving my Python programming skills.
+
+Practising coding challenges and problem-solving.
+
+Building personal software projects.
+
+Learning backend development and APIs.
+
+### 🚀 Featured Projects
+
+Coming soon! I'm working on projects to showcase my software engineering skills.
+
+### 🚀 Goals
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/heric-perez-perez-1765a31a2)
